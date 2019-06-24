@@ -1,1 +1,0 @@
-这是一个java项目，可以在Android Studio中直接运行。
